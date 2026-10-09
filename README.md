@@ -16,8 +16,9 @@ Desarrollo plataformas web, bases de datos y recursos educativos digitales inter
 
 ## Proyectos destacados
 
+- **[Gestor de Tareas](https://github.com/ydiazmedina-png/gestor-tareas)** – App web con registro y login, y CRUD de tareas con filtros. PHP, MySQL y JavaScript; protección CSRF, prevención de XSS y consultas preparadas.
+- **[Inventario API](https://github.com/ydiazmedina-png/inventario-api)** – API REST con autenticación por token, búsqueda, paginación, 30 pruebas automáticas y un cliente web que la consume.
 - **OVAs de CINTIA (web-ovas)** – Objetos Virtuales de Aprendizaje interactivos para programas técnicos y tecnológicos. Repositorio de la organización: https://github.com/uentucolegio/web-ovas
-<!-- Agrega aquí tus proyectos personales con el mismo formato -->
 
 ## Formación
 
